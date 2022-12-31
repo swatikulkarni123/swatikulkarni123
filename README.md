@@ -16,7 +16,8 @@
 <p> 
 
 <h3>Working at Reliance Jio </h3>
-    - Application Devloper
+    - Application Devloper<br><br>
+
 
 Known languages And tools : <br>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" height="30" style="margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" height="30" style="margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter" height="30" style="margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" height="30" style=" margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript" height="30" style=" margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" height="30" style="margin:4px"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="30" style="margin:4px">
@@ -24,6 +25,6 @@ Known languages And tools : <br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swatikulkarni123&show_icons=true&theme=dark) 
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatikulkarni123&show_icons=true&&theme=dark) 
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=swatikulkarni123&show_icons=true&theme=dark) 
 </body>
 </html>
