@@ -1,7 +1,7 @@
 <html>
 <body style="black">
 <p align="center">
-    <a><img src="./images/name.svg"></a><br>
+     <img src="./images/name.svg"><br>
      <a href="https://www.linkedin.com/in/kulkarniswati"><img height="24" width ="24" src="./images/linkedin.png"></img><img src="./images/linkedin.svg"></a><a target="_blank" href="mailto:1kulkarni.swati@gmail.com">
     <img height="24" width ="24" src="./images/gmail.png"><img alt="Gmail" src="./images/gmail.svg" /></a>
 </p>
